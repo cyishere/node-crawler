@@ -3,5 +3,12 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "request": "^2.88.2"
-  }
+  },
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "A simple example to understand how to make a webpage crawler by using Node.js",
+  "main": "server.js",
+  "repository": "https://github.com/cyishere/node-crawler.git",
+  "author": "cyishere <cyishere@gmail.com>",
+  "license": "MIT"
 }
